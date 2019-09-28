@@ -1,0 +1,144 @@
+{
+    "Apps": [
+        {
+            "AppName": "apac",
+            "Environments": [
+                "Test",
+                "Regression",
+                "Live"
+            ],
+            "AvailableCountries": [
+                {
+                    "Name": "Australia",
+                    "Code": "AU",
+                    "Languages": [
+                        {
+                            "Locale": "en-AU",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Hong Kong",
+                    "Code": "HK",
+                    "Languages": [
+                        {
+                            "Locale": "en-US",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        },
+                        {
+                            "Locale": "zh-HK",
+                            "AppLanguageCode": "zh",
+                            "Code": "HK",
+                            "Name": "中文"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Indonesia",
+                    "Code": "ID",
+                    "Languages": [
+                        {
+                            "Locale": "en-US",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        },
+                        {
+                            "Locale": "id-ID",
+                            "AppLanguageCode": "ID",
+                            "Code": "ID",
+                            "Name": "Bahasa Indonesia"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Malaysia",
+                    "Code": "MY",
+                    "Languages": [
+                        {
+                            "Locale": "en-US",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        }
+                    ]
+                },
+                {
+                    "Name": "New Zealand",
+                    "Code": "NZ",
+                    "Languages": [
+                        {
+                            "Locale": "en-EZ",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Philippines",
+                    "Code": "PH",
+                    "Languages": [
+                        {
+                            "Locale": "en-US",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Singapore",
+                    "Code": "SG",
+                    "Languages": [
+                        {
+                            "Locale": "en-US",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Thailand",
+                    "Code": "TH",
+                    "Languages": [
+                        {
+                            "Locale": "en-US",
+                            "AppLanguageCode": "EN",
+                            "Code": "EN",
+                            "Name": "English"
+                        },
+                        {
+                            "Locale": "th-TH",
+                            "AppLanguageCode": "TH",
+                            "Code": "TH",
+                            "Name": "ไทย"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "AppName": "app2",
+            "Environments": [
+                "Test",
+                "Regression",
+                "Live"
+            ]
+        },
+        {
+            "AppName": "app3",
+            "Environments": [
+                "Test",
+                "Regression",
+                "Live"
+            ]
+        }
+    ]
+}
